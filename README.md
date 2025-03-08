@@ -1,4 +1,6 @@
 #Olympic-Data-Analysis-Project
+
+
 Introduction
 The Olympic Data Analysis project provides an in-depth analysis of Olympic Games history, focusing on medal tallies, athlete statistics, and country-wise performance. This project uses data visualizations and analytics to help users explore trends in sports, participation, and performance over the years.
 
